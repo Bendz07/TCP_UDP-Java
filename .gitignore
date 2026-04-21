@@ -1,0 +1,7 @@
+```
+# Compiled Java classes
+*.class
+
+# Build directory
+bin/
+```
